@@ -1,0 +1,9 @@
+# Data licence
+
+The file in `data/` is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+Copyright (c) 2026 Nimmi Kunnath, Pooja Gurram and Mohamed Elgendi.
+
+You may share and adapt the data for any purpose, provided you give appropriate credit, link to the licence and indicate if changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
